@@ -1,0 +1,57 @@
+h1{
+    color:#000000;
+}
+.bg{
+    background-image:url("../img/785833.png");
+    background-size:cover ;
+    height: 800px;
+
+}
+body{
+    background-color: #6f42c1;
+}
+.vert{
+    background-color: #6f42c1;
+}
+.rose{
+    background-color: deeppink;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: black;
+}
+.pad{
+    margin-bottom:30px;
+    margin-top:30px;
+
+    border-bottom: 30px;
+    border-top: 30px;
+
+    border-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+    padding-right: 30px;
+}
+
+
+img:hover{
+
+    -moz-box-shadow:0 0 10px  white;
+    -webkit-box-shadow: 0 0 10px white;
+
+}
+a{
+    color:lightskyblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #224061;
+}
+a:visited{
+    color:blue ;
+}
