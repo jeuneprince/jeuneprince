@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f42335ee-df5b-4699-a528-3a93ca7d4d7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercice2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestImage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestImage/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -73,6 +75,7 @@
       <workItem from="1568245087873" duration="8278000" />
       <workItem from="1568300044315" duration="3918000" />
       <workItem from="1568660622216" duration="658000" />
+      <workItem from="1568725036040" duration="703000" />
     </task>
     <servers />
   </component>
