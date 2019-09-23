@@ -1,0 +1,41 @@
+h3{
+    color:deepskyblue;
+    }
+
+
+.rose{
+    background-color: deeppink;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: black;
+}
+.pad{
+
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+
+}
+
+
+img:hover{
+
+    -moz-box-shadow:0 0 10px  red;
+    -webkit-box-shadow: 0 0 10px red;
+
+}
+a{
+    color:lightskyblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #224061;
+}
+a:visited{
+    color:blue ;
+}
