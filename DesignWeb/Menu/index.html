@@ -6,9 +6,47 @@
     <title>Menu</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/jpg" href="img/132646.jpg" />
+
 
 </head>
 <body>
+<nav class="navbar fixed-top navbar-expand-lg ">
+    <a class="navbar-brand" href="#">
+        <img src="img/1200px-S-Bahn-Logo.svg.png" width="30" height="30" class="d-inline-block align-top" alt="">
+        MENU
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"   aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active"><a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Gallerie</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Calendrier</a></li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Series
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Comique</a>
+                    <a class="dropdown-item" href="#">Romantique</a>
+                </div>
+            </li>
+
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="Recherche" placeholder="Recherche" aria-label="recherche">
+            <button class="btn btn-dark my-2 my-sm-0" type="submit">Recherche</button>
+        </form>
+    </div>
+
+
+</nav>
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ul class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -39,6 +77,19 @@
     </a>
 
 </div> <!-- Fin du carousel -->
+<div class="container-fluid">
+    <div class="row text-center ">
+        <div class="col-xl-4 text-right">
+        </div>
+        <div class="col-xl-4 text-right">
+        </div>
+        <div class="col-xl-4 text-right">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-twitter"></i>
+        </div>
+    </div>
+
 
 <script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
