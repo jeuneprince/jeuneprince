@@ -1,4 +1,10 @@
+body{
+    background-color: black;
+}
+.tex{
+    color: #0ec3f1;
 
+}
 .navbar {
     background-color: #201f21;
 }
