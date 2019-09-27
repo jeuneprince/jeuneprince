@@ -6,11 +6,56 @@ body{
     background-color: darkolivegreen;
 
 }
+.vert{
+    background-color: mediumseagreen;
+    height: 300px;
+}
+.pad{
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.jaune{
+    background-color: yellow;
+    height: 300px;
+}
+.bleu{
+    background-color: cornflowerblue;
+    height: 300px;
+}
 .zone1{
     background-color: white;
 }
-p{
-    color: black;
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/314799.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    /* L’image du Parallax */
+    background-image: url("../img/4-administrative-data-processing_1920x1080.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p, h1, h4, h7{
+    color: white;
+}
+li{
+    color: orangered;
 }
 html,body { margin:0; height:100%;}
 
@@ -31,7 +76,17 @@ html,body { margin:0; height:100%;}
     margin-bottom:50px;
 
 }
-
+a{
+    color:orange ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: orange;
+}
+a:visited{
+    color:white;
+}
 
 .navbar {
     background-color: darkolivegreen;
