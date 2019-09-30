@@ -1,10 +1,21 @@
 html{
     font-family: "Comic Sans MS";
     font-style: italic;
+    height: 100%;
 }
 body{
     background-color: white;
     font-family: "Comic Sans MS";
+    height: 100%;
+}
+
+
+.bgOpaque{
+    background-color: rgba(0,255,0,.75);
+}
+
+.bgOp{
+    background-color: rgba(0,255,0,.75);
 }
 
 .zone{
@@ -78,7 +89,7 @@ html,body { margin:0; height:100%;}
     background-size: cover;
 }
 .margin{
-    margin-bottom:50px;
+    margin-top:200px;
 
 }
 a{
