@@ -1,0 +1,281 @@
+html{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    height: 100%;
+}
+body{
+    background-color: white;
+    font-family: "Comic Sans MS";
+    height: 100%;
+}
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+.bgOpaque{
+    background-color: rgba(0,255,0,.75);
+}
+
+.bgOp{
+    background-color: rgba(0,255,0,.75);
+}
+
+.zone{
+    background-color: darkolivegreen;
+
+}
+.vert{
+    background-color: mediumseagreen;
+    height: 300px;
+}
+.pad{
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.jaune{
+    background-color: tomato;
+    height: 300px;
+}
+.bleu{
+    background-color: cornflowerblue;
+    height: 300px;
+}
+.zone1{
+    background-color: white;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/314799.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    /* L’image du Parallax */
+    background-image: url("../img/4-administrative-data-processing_1920x1080.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p, h1, h4, h7{
+    color: white;
+}
+li{
+    color: orangered;
+}
+html,body { margin:0; height:100%;}
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+   div.exemple{
+      font-size: 10px;
+   }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/ingenieur.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.margin{
+    margin-top:200px;
+
+}
+a{
+    color:orange ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: orange;
+}
+a:visited{
+    color:white;
+}
+
+.navbar {
+    background-color: darkolivegreen;
+}
+.navbar .navbar-brand {
+    color: black;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #f0f3f6;
+}
+.navbar .navbar-text {
+    color: black;
+}
+.navbar .navbar-text a {
+    color: #f0f3f6;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #f0f3f6;
+}
+.navbar .navbar-nav .nav-link {
+    color: black;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #f0f3f6;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #f0f3f6;
+    background-color: dimgrey;
+}
+.navbar .navbar-toggle {
+    border-color: dimgray;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: dimgrey;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: black;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: dimgrey;
+}
+.navbar .navbar-link {
+    color: black;
+}
+
+.navbar .navbar-link:hover {
+    color: #f0f3f6;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #f0f3f6;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #f0f3f6;
+        background-color: dimgrey;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #f0f3f6;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #f0f3f6;
+        background-color: dimgrey;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #f0f3f6;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #f0f3f6;
+        background-color: dimgrey;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #f0f3f6;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #f0f3f6;
+        background-color: dimgrey;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: black;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #f0f3f6;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #f0f3f6;
+    background-color: dimgrey;
+}

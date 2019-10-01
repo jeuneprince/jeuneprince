@@ -74,6 +74,16 @@ li{
     color: orangered;
 }
 html,body { margin:0; height:100%;}
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+   div.exemple{
+      font-size: 10px;
+   }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+
+}
 
 .parallax {
     /* L’image du Parallax */

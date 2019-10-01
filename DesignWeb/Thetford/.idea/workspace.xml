@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6dcbb4d-15db-4389-acbf-fd33820ba7a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/Backgroundvideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/1188149-l-attaquant-portugais-de-la-juventus-cristiano-ronaldo-durant-la-finale-de-la-supercoupe-d-italie-fa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/1f934.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/314785.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/314799.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/314848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/314852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/4-administrative-data-processing_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/5440487-1122329314-52705.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/60-609912_spheratech-wallpaper-iphone-business-technology-wallpaper-hd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/FC-Barcelone-messi-1217041045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/INFO_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/INFO_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/INFO_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/Programmeur-analyste-technologie-de-l-information_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/ingenieur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Backgroundvideo/js/jquery-3.4.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -33,6 +77,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Menu" />
   </component>
@@ -61,7 +106,8 @@
       <workItem from="1569511549728" duration="4372000" />
       <workItem from="1569593689587" duration="9395000" />
       <workItem from="1569800724385" duration="1458000" />
-      <workItem from="1569871294602" duration="3032000" />
+      <workItem from="1569871294602" duration="4979000" />
+      <workItem from="1569932042410" duration="2515000" />
     </task>
     <servers />
   </component>
