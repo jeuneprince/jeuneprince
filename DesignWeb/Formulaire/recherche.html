@@ -8,46 +8,175 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-xl-8 col-md-8">
-            <img src="img/téléchargement.jpg" class="img-fluid" alt="Responsive image"/></div>
-        <div class="col-xl-4 col-md-4">
-            <h1>Sky Travel</h1>
-            <p> ADRESSE: 454 boulevard Jutras Est G6P0H2 Victoriaville Quebec</p>
+<form>
+    <div class="container">
+        <div class="row py-3">
+            <div class="col-xl-8 col-md-8">
+                <img src="img/téléchargement.jpg" class="img-fluid" alt="Responsive image"/></div>
+            <div class="col-xl-4 col-md-4">
+                <h1>Sky Travel</h1>
+                <p> ADRESSE: 454 boulevard Jutras Est G6P0H2 Victoriaville Quebec</p>
                 <p>TEL: 438 357 2519
-            </p>
+                </p>
+            </div>
+        </div>
+        <div class="row py-3">
+
+        </div>
+        <div class="row py-3">
+            <div class="offset-1">
+                <h1>Recherche d'un forfait voyage centré</h1>
+            </div>
+        </div>
+        <div class="row py-3">
+            <div class="col-xl-4">
+                <input type="text" class="form-control" placeholder="Prénom">
+            </div>
+            <div class="col-xl-4">
+                <input type="text" class="form-control" placeholder="Nom">
+            </div>
+            <div class="col-xl-4">
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            </div>
+        </div>
+        <div class="row py-3">
+            <div class="col-xl-4">
+                <input type="text" class="form-control" placeholder="Ville">
+            </div>
+            <div class="col-xl-4">
+                <input type="text" class="form-control" placeholder="Code postal">
+            </div>
+            <div class="col-xl-4">
+                <input type="text" class="form-control" placeholder="Telephone">
+            </div>
+        </div>
+
+    </div>
+<div class="container">
+    <div class="row py-3">
+        <div class="col-xl-4">
+            <label for="tot">Destination</label>
+            <select class="form-control" id="tot">
+                <option>CHOIX</option>
+                <option>Mexique</option>
+                <option>France</option>
+                <option>Grece</option>
+                <option>Colombie</option>
+                <option>Cuba</option>
+                <option>Espagne</option>
+                <option>Italie</option>
+                <option>Cote d'Ivoire</option>
+            </select>
+        </div>
+        <div class="col-xl-4">
+            <label for="example-date-input" class="col-xl-8 col-form-label">Date de depart</label>
+                <input class="form-control" type="date" value="2019-10-19" id="example-date-input">
+        </div>
+        <div class="col-xl-4">
+            <label for="example-date" class="col-xl-8 col-form-label">Date de retour</label>
+                <input class="form-control" type="date" value="2019-10-19" id="example-date">
         </div>
     </div>
-    <div class="row">
-        <div class="offset-1">
-            <h1>Recherche d'un forfait voyage centré</h1>
+    <div class="row py-3">
+        <div class="col-xl-6">
+            <label for="exampleSelect1">Nombre d'adultes</label>
+            <select class="form-control" id="exampleSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+        </div>
+        <div class="col-xl-6">
+            <label for="exampleSelect">Nombre d'enfants</label>
+            <select class="form-control" id="exampleSelect">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+        </div>
+
+    </div>
+        <div class="row py-3">
+            <div class="col-xl-12">
+                <h9>Moyen de transport</h9>
+            <div class="col-xl-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios" value="option1" checked>
+                    <label class="form-check-label" for="exampleRadios">
+                        train
+                    </label>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                    <label class="form-check-label" for="exampleRadios1">
+                        Avion
+                    </label>
+                </div>
+            </div>
+        </div>
+        </div>
+    <div class="row py-3">
+        <div class="col-xl-12">
+            <h9>Type de siege</h9>
+            <div class="col-xl-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadi" value="option1" checked>
+                    <label class="form-check-label" for="exampleRadi">
+                        Economique
+                    </label>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadio" value="option1" checked>
+                    <label class="form-check-label" for="exampleRadio">
+                        Business
+                    </label>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row py-3">
         <div class="col-xl-4">
-            <input type="text" class="form-control" placeholder="Prénom">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" value="">
+                Tout compris
+            </label>
         </div>
         <div class="col-xl-4">
-            <input type="text" class="form-control" placeholder="Nom">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" value="">
+                Sur la plage
+            </label>
         </div>
         <div class="col-xl-4">
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            <label class="form-check-label">
+                <input class="form-check-input" type="checkbox" value="">
+                Pres d'un golf
+            </label>
         </div>
     </div>
-    <div class="row">
-        <div class="col-xl-4">
-            <input type="text" class="form-control" placeholder="Ville">
+    <div class="row py-3">
+        <div class="col-xl-12">
+            <h3>Localisation</h3>
         </div>
-        <div class="col-xl-4">
-            <input type="text" class="form-control" placeholder="Code postal">
+        <div class="col">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2768.5719377282358!2d-71.94583108445912!3d46.059635879112506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb803e1d25e766f%3A0xbd121b00829d9e55!2sC%C3%A9gep%20de%20Victoriaville!5e0!3m2!1sfr!2sca!4v1570479588849!5m2!1sfr!2sca" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
-        <div class="col-xl-4">
-            <input type="text" class="form-control" placeholder="Telephone">
+        <div class="col-xl-12">
+            <button type="submit" class="btn btn-primary" value="Accéder au Formulaire Envoye">Recherche</button>
         </div>
     </div>
 
 </div>
+
+</form>
 
 <script src="js/jquery-3.4.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
