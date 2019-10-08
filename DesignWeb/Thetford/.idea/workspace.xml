@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6dcbb4d-15db-4389-acbf-fd33820ba7a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Backgroundvideo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Backgroundvideo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetExam/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../premier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../premier/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Menu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,6 +65,7 @@
       <workItem from="1569800724385" duration="1458000" />
       <workItem from="1569871294602" duration="4979000" />
       <workItem from="1569932042410" duration="2878000" />
+      <workItem from="1570543584780" duration="1210000" />
     </task>
     <servers />
   </component>

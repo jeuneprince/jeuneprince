@@ -9,6 +9,27 @@ body{
     color: #0ec3f1;
 
 }
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
 .navbar {
     background-color: #f1eff3;
 }
