@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9a5aa1da-8836-4126-a106-336503f2f8cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetExam/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetExam/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/souleymane" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thetford" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569932543245</updated>
       <workItem from="1569932544410" duration="4767000" />
+      <workItem from="1570718296860" duration="1854000" />
     </task>
     <servers />
   </component>
@@ -68,7 +69,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

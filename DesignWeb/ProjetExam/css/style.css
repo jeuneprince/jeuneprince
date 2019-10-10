@@ -1,3 +1,6 @@
+html,body{
+    height: 100%;
+}
 body{
     background-color: lightgrey;
 }
@@ -6,8 +9,14 @@ body{
 }
 
 .tex{
-    color: #0ec3f1;
+    color: white;
 
+}
+.tais{
+    color: black;
+}
+.bgOpaque{
+    background-color: rgba(180,255,255,.75);
 }
 .parallax {
     /* L’image du Parallax */
@@ -22,6 +31,47 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
 
 
 
@@ -183,7 +233,7 @@ body{
         background-image: url("../img/https___fr.hypebeast.com_files_2019_09_02-Naturel-contraste-3.jpg");
 
         /* L’hauteur du Parallax */
-        height: 1%;
+        height: 100%;
 
         /* Création de l’effet */
         background-attachment: fixed;
@@ -191,7 +241,6 @@ body{
         background-repeat: no-repeat;
         background-size: cover;
     }
-
 }
 /* TABLETTES */
 @media screen and (min-width: 481px) and (max-width: 1199px) {
