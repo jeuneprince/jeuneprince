@@ -172,3 +172,44 @@ body{
     color: #38343d;
     background-color: #04ffd9;
 }
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+                h1{
+                    font-size: 20px;
+                }
+
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    h1{
+        font-size: 70px;
+    }
+
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
