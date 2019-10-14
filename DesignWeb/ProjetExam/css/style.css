@@ -1,6 +1,15 @@
 html,body{
     height: 100%;
 }
+.cris{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    color: white;
+}
+.bg{
+    background-color: black;
+}
+
 body{
     background-color: lightgrey;
 }
@@ -16,11 +25,41 @@ body{
     color: black;
 }
 .bgOpaque{
-    background-color: rgba(180,255,255,.75);
+     background-color: rgba(180,255,255,.75);
+ }
+.bgOpaque1{
+    background-color: rgba(0,0,0,.75);
 }
 .parallax {
+     /* L’image du Parallax */
+     background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+
+     /* L’hauteur du Parallax */
+     min-height: 1000px;
+
+     /* Création de l’effet */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+.parallax1 {
     /* L’image du Parallax */
-    background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+    background-image: url("../img/cris1.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 1000px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/2ad11c7ad141.jpg");
 
     /* L’hauteur du Parallax */
     min-height: 1000px;
