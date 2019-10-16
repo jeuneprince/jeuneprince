@@ -8,6 +8,7 @@ html,body{
 }
 .bg{
     background-color: black;
+    height: 100%;
 }
 
 body{
@@ -43,7 +44,36 @@ body{
      background-repeat: no-repeat;
      background-size: cover;
  }
+img:hover{
 
+    -moz-box-shadow:0 0 10px  white;
+    -webkit-box-shadow: 0 0 10px white;
+
+}
+a{
+    color:lightskyblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #224061;
+}
+a:visited{
+    color:blue ;
+}
+.parallax0 {
+    /* L’image du Parallax */
+    background-image: url("../img/parfait.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 1000px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .parallax1 {
     /* L’image du Parallax */
     background-image: url("../img/cris1.jpg");
