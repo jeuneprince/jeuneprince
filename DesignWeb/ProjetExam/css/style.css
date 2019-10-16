@@ -310,6 +310,19 @@ header .overlay {
         background-repeat: no-repeat;
         background-size: cover;
     }
+    .parallax0 {
+        /* L’image du Parallax */
+        background-image: url("../img/vegeta.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 }
 /* TABLETTES */
 @media screen and (min-width: 481px) and (max-width: 1199px) {
@@ -319,7 +332,20 @@ header .overlay {
 
     .parallax {
         /* L’image du Parallax */
-        background-image: url("../img/https___fr.hypebeast.com_files_2019_09_02-Naturel-contraste-3.jpg");
+        background-image: url("../img/vegeta.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 1%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .parallax0 {
+        /* L’image du Parallax */
+        background-image: url("../img/vegeta.jpg");
 
         /* L’hauteur du Parallax */
         height: 1%;
