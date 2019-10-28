@@ -1,21 +1,36 @@
-$(document).ready(function(){
-    $('img').hover(function() {
-        $(this).css("cursor", "pointer");
-        $(this).toggle({
-            effect: "scale",
-            percent: "20%"
-        },100);
-    }, function() {
-        $(this).toggle({
-            effect: "scale",
-            percent: "10%"
-        },100);
 
-    });
+$( "#im" ).mouseenter(function() {
+    $('#im').css("transform","scale(1.2)");
+    $('#im').css("transition","all 0.5s ease");
+
+
+});
+$('#im').mouseleave(function(){
+    $('#im').css("transform","scale(1)");
 });
 
 
-var i=0;
+
+$( "#im1" ).mouseenter(function() {
+    $('#im1').css("transform","scale(1.2)");
+    $('#im1').css("transition","all 0.5s ease");
+});
+$('#im1').mouseleave(function(){
+    $('#im1').css("transform","scale(1)");
+});
+
+
+
+$( "#im2" ).mouseenter(function() {
+    $('#im2').css("transform","scale(1.2)");
+    $('#im2').css("transition","all 0.5s ease");
+});
+$('#im2').mouseleave(function(){
+    $('#im2').css("transform","scale(1)");
+});
+
+
+
 $( "#but" ).click(function() {
     if (i===0){
         $('#nat').html("La natation, c'est-à-dire l'action de nager, désigne les méthodes qui permettent aux êtres humains de se mouvoir dans l'eau sans aucune force propulsive que leur propre énergie corporelle.");
