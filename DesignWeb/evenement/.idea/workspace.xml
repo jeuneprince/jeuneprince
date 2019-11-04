@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f037e30-c2e9-411f-b575-b7ca7e624ebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../transform/.idea/transform.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/hello.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../transform/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../transform/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../transform/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../transform/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prepajava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,6 +62,8 @@
       <updated>1571747584014</updated>
       <workItem from="1571747585311" duration="5473000" />
       <workItem from="1571928773656" duration="4690000" />
+      <workItem from="1572291197011" duration="2214000" />
+      <workItem from="1572294331258" duration="638000" />
     </task>
     <servers />
   </component>

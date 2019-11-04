@@ -1,4 +1,4 @@
-
+/*
 //      ========= Exercice 1 ============      //
 
 //ETAPE 1 DECLARATION DE VARIABLES
@@ -16,6 +16,29 @@ for (j=0;j<4;j++){
     }
     document.write("<br>");
 }
+
+ */
+/*
+//      ========= Exercice 2 ============      //
+
+//ETAPE 1 DECLARATION DE VARIABLES
+var i;
+var j;
+var res;
+//ETAPE 2 INITIALISATION DES VARIABLES
+res=2;
+
+//ETAPE 3 RESOLUTION ET AFFICHAGE
+for (j=0;j<3;j++){
+    for (i=0;i<6;i++) {
+        res = res + 2;
+        document.write(+res + " ");
+    }
+    document.write("<br>");
+    res=res-11;
+}
+
+ */
 
 
 /*

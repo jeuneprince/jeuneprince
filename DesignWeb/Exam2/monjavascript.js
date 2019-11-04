@@ -60,11 +60,7 @@ document.write(" Grand total est = " +grand);
 
  */
 
-
-
-
-
-
+/*
 //      ========= Exercice 2 ============      //
 var res;
 res=0;
@@ -85,6 +81,8 @@ for (var i=1;i<10;i++){
     }
     document.write("<br>");
 }
+
+ */
 
 
 
