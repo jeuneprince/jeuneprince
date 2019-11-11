@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f037e30-c2e9-411f-b575-b7ca7e624ebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Casse-Tete/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casse-Tete/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Casse-Tete/JS/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Casse-Tete/JS/casseTete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/monjavascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,7 @@
       <workItem from="1571928773656" duration="4690000" />
       <workItem from="1572291197011" duration="2214000" />
       <workItem from="1572294331258" duration="638000" />
+      <workItem from="1572963161396" duration="9000" />
     </task>
     <servers />
   </component>

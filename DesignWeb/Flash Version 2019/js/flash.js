@@ -105,7 +105,7 @@ function descendre() {
         clearInterval(bloc1);
     }
 }
-
+/*
 var bloc;
 $( "#boutonPerso1" ).click(function() {
     if ()
@@ -114,5 +114,7 @@ $( "#boutonPerso1" ).click(function() {
 });
 var nbBas=0;
 //top comme left
+
+ */
 
 

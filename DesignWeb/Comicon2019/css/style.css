@@ -1,0 +1,359 @@
+html,body{
+    height: 100%;
+}
+.cris{
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    color: white;
+}
+.bg{
+    background-color: black;
+    height: 100%;
+}
+
+body{
+    background-color: lightgrey;
+}
+.fa, .fas{
+    color: rgb(0,0,0);
+}
+
+.tex{
+    color: white;
+
+}
+.tais{
+    color: black;
+}
+.bgOpaque{
+     background-color: rgba(180,255,255,.75);
+ }
+.bgOpaque1{
+    background-color: rgba(0,0,0,.75);
+}
+.parallax {
+     /* L’image du Parallax */
+     background-image: url("../img/myth-syzer-feat-ateyaba-lino-cross.jpg");
+
+     /* L’hauteur du Parallax */
+     min-height: 1000px;
+
+     /* Création de l’effet */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+img:hover{
+
+    -moz-box-shadow:0 0 10px  white;
+    -webkit-box-shadow: 0 0 10px white;
+
+}
+a{
+    color:lightskyblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #224061;
+}
+a:visited{
+    color:blue ;
+}
+.parallax0 {
+    /* L’image du Parallax */
+    background-image: url("../img/parfait.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 1000px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax1 {
+    /* L’image du Parallax */
+    background-image: url("../img/cris1.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 1000px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/2ad11c7ad141.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 1000px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+.navbar {
+    background-color: #f1eff3;
+}
+.navbar .navbar-brand {
+    color: #020e12;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #38343d;
+}
+.navbar .navbar-text {
+    color: #020e12;
+}
+.navbar .navbar-text a {
+    color: #38343d;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #38343d;
+}
+.navbar .navbar-nav .nav-link {
+    color: #020e12;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #38343d;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #f1eff3;
+    border-color: #04ffd9;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #020e12;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #38343d;
+    background-color: #04ffd9;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #04ffd9;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #38343d;
+    background-color: #04ffd9;
+}
+.navbar .navbar-toggle {
+    border-color: #04ffd9;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #04ffd9;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #020e12;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #020e12;
+}
+.navbar .navbar-link {
+    color: #020e12;
+}
+.navbar .navbar-link:hover {
+    color: #38343d;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020e12;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #38343d;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #38343d;
+        background-color: #04ffd9;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020e12;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #38343d;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #38343d;
+        background-color: #04ffd9;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020e12;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #38343d;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #38343d;
+        background-color: #04ffd9;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #020e12;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #38343d;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #38343d;
+        background-color: #04ffd9;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #020e12;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #38343d;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #38343d;
+    background-color: #04ffd9;
+}
+/* Cellulaires */
+@media only screen and (max-width: 480px){
+                h1{
+                    font-size: 20px;
+                }
+
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/https___fr.hypebeast.com_files_2019_09_02-Naturel-contraste-3.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .parallax0 {
+        /* L’image du Parallax */
+        background-image: url("../img/vegeta.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 100%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    h1{
+        font-size: 70px;
+    }
+
+    .parallax {
+        /* L’image du Parallax */
+        background-image: url("../img/https___fr.hypebeast.com_files_2019_09_02-Naturel-contraste-3.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 1%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .parallax0 {
+        /* L’image du Parallax */
+        background-image: url("../img/vegeta.jpg");
+
+        /* L’hauteur du Parallax */
+        height: 1%;
+
+        /* Création de l’effet */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

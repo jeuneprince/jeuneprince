@@ -60,29 +60,29 @@ document.write(" Grand total est = " +grand);
 
  */
 
-/*
+
 //      ========= Exercice 2 ============      //
 var res;
 res=0;
-document.write("*  |  1  2  3  4  5  6  7  8  9 ");
+document.write("*  |__1__2__3__4__5__6__7__8__9 ");
 document.write("<br>");
-document.write("-------------------------------");
+document.write("--------------------------------------------");
 document.write("<br>");
 for (var i=1;i<10;i++){
     document.write(i+"  | ");
     for ( var j=1;j<10;j++){
         res=i*j;
         if (res<10){
-            document.write("  "+res);
+            document.write("__"+res);
         }
         else{
-            document.write(" "+res);
+            document.write("_"+res);
         }
     }
     document.write("<br>");
 }
 
- */
+
 
 
 

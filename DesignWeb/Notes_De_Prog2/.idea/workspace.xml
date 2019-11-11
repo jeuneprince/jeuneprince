@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb8dc08-4871-47b8-b4f8-b2f4a7a88ac5" name="Default Changelist" comment="">
+    <list default="true" id="436f055c-519e-43d0-b65c-82fb6bea4d81" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Casse-Tete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/Notes_De_Prog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/prenom_nom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prenom_nom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Casse-Tete/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Casse-Tete/JS/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Casse-Tete/JS/casseTete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/monjavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +27,23 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1Sq0jqQ2yfspvHCTAcQz86VbV9c" />
+  <component name="ProjectId" id="1TD6ek3CMSgUaWOfWqlfRszzyzV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exam2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Notes_De_Prog" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,16 +62,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6cb8dc08-4871-47b8-b4f8-b2f4a7a88ac5" name="Default Changelist" comment="" />
-      <created>1572275956511</created>
+      <changelist id="436f055c-519e-43d0-b65c-82fb6bea4d81" name="Default Changelist" comment="" />
+      <created>1572982415710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572275956511</updated>
-      <workItem from="1572275957653" duration="59000" />
-      <workItem from="1572291110621" duration="16544000" />
-      <workItem from="1572899419375" duration="1017000" />
-      <workItem from="1572902958963" duration="1219000" />
-      <workItem from="1572904515675" duration="745000" />
+      <updated>1572982415710</updated>
+      <workItem from="1572982416773" duration="5021000" />
     </task>
     <servers />
   </component>
@@ -68,9 +79,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
