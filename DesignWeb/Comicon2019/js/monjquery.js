@@ -24,6 +24,59 @@ $("#exampleRadios3" ).change(function() {
     $('#marvel').hide();
 });
 
+//perso 3
+$("#arrow" ).change(function() {
+    $('#fl').hide();
+    $('#super').hide();
+    $('#arr').show();
+});
+$("#flash" ).change(function() {
+    $('#arr').hide();
+    $('#super').hide();
+    $('#fl').show();
+});
+$("#superman" ).change(function() {
+    $('#fl').hide();
+    $('#arr').hide();
+    $('#super').show();
+});
+//perso 2
+
+$("#hulk" ).change(function() {
+    $('#iron').hide();
+    $('#th').hide();
+    $('#hulkvert').show();
+});
+$("#ironman" ).change(function() {
+    $('#th').hide();
+    $('#hulkvert').hide();
+    $('#iron').show();
+});
+$("#thor" ).change(function() {
+    $('#iron').hide();
+    $('#hulkvert').hide();
+    $('#th').show();
+});
+
+// perso 1
+
+$("#chewbacca" ).change(function() {
+    $('#obiwan').hide();
+    $('#darth').hide();
+    $('#chew').show();
+});
+$("#dark" ).change(function() {
+    $('#obiwan').hide();
+    $('#chew').hide();
+    $('#darth').show();
+});
+$("#obi" ).change(function() {
+    $('#darth').hide();
+    $('#chew').hide();
+    $('#obiwan').show();
+});
+
+
 $("#pseudo").keyup(function(){
     $("#pseudo").css("background-color", "yellow");
 
@@ -70,7 +123,7 @@ $("#password2").keyup(function(){
 });
 
 $("#Email1").keyup(function(){
-    var courriel=$("#Email1").val();;
+    var courriel=$("#Email1").val();
     if (courriel.includes("@" && ".")){
         $("#small").html("Dispo");
         $("#small").css("color","green");
@@ -81,4 +134,14 @@ $("#Email1").keyup(function(){
     }
 });
 
+
+$("#envoyer" ).click(function() {
+    var texte=$("#pseudo").val();
+    var courriel=$("#Email1").val();
+    var ville=$("#ville1").val();
+    var cp=$("#code").val();
+    var num=$("#tel").val();
+    alert("Votre pseudo est : "+texte+" \n votre email est : "+courriel+ "\n votre ville est :"+ville+ " \n votre code postal est: "+cp+" \n votre cel est: "+num);
+
+});
 
