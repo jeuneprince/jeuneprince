@@ -1,4 +1,4 @@
-/*
+
 //      ========= Exercice 4 partie 1 ============      //
 
 //ETAPE 1 DECLARATION DE VARIABLES
@@ -21,8 +21,7 @@ for (i=1;i<11;i++) {
 moyenne=total/10;
 document.write("<br>");
 document.write("Cela fait une moyenne de: " +moyenne);
-
- */
+/*
 
 
 
@@ -55,3 +54,5 @@ while (note>=60) {
 document.write("<br>");
 moyenne=total/cpt;
 document.write(moyenne);
+
+ */
