@@ -2,57 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e820a53-d5d2-40ee-9661-7103e6a87f25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/Comicon2019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/img/1f934.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comicon2019/js/monjquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/Notes_De_Prog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog/prenom_nom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/.idea/Notes_De_Prog2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Notes_De_Prog2/prenom_nom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fonction/.idea/Fonction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fonction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fonction/monjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esa/.idea/esa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/casseTete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exam2/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/monjavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamD2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamD2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetExam" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -140,6 +99,10 @@
       <workItem from="1573139634089" duration="722000" />
       <workItem from="1573140545502" duration="94000" />
       <workItem from="1573140670131" duration="858000" />
+      <workItem from="1574118536035" duration="717000" />
+      <workItem from="1574125551425" duration="2529000" />
+      <workItem from="1574279918695" duration="1841000" />
+      <workItem from="1574352578767" duration="1823000" />
     </task>
     <servers />
   </component>

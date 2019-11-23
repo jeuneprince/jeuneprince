@@ -1,0 +1,10 @@
+html,body{
+    height: 100%;
+    background-color: lightskyblue;
+    color: white;
+}
+.bg{
+    background-image: url("../background/bleu.jpg");
+    height: 100%;
+
+}
