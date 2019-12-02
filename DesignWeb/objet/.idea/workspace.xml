@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a266d3-f68b-48ad-a919-ad21f98f585d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fonction/.idea/Fonction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fonction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fonction/monjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../esa/.idea/esa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../esa/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monjavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Casse-Tete/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shaker/.idea/Shaker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shaker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShanyStrap/.idea/ShanyStrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShanyStrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShanyStrap/oui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShanyStrap/stylee.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExamD2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExamD2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../evenement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/monjavascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemoncard/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemoncard/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExamD2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,6 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1574447558062</updated>
       <workItem from="1574447559641" duration="7550000" />
+      <workItem from="1574792306692" duration="13911000" />
+      <workItem from="1574955959351" duration="1930000" />
+      <workItem from="1575052123500" duration="4380000" />
     </task>
     <servers />
   </component>
@@ -79,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

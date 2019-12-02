@@ -1,5 +1,7 @@
 //On positionne Flash en relative pour accéder aux déplacements X et Y
 //Par défaut un élément est statique
+$('#lightning').hide();
+
 var i=0;
 $('#flashID').css("position","relative");
 $( "#boutonDroite").click(function() {
@@ -105,16 +107,42 @@ function descendre() {
         clearInterval(bloc1);
     }
 }
-/*
-var bloc;
-$( "#boutonPerso1" ).click(function() {
-    if ()
-        bloc = setInterval(bouger,500);
-    bloc1 = setInterval(descendre,500);
+let px = 0;
+let px2 = 0;
+let py = 0;
+let px3;
+let finished=0;
+function run1() {
+    if (px <= 1250) {
+        px += 50;
+        $('#flashID').css({left: px});
+    }
+    else if (py <= 400){
+        py += 50;
+        $('#flashID').css({top: py});
+        px3 = px;
+    }
+    else if (py >= 400 && px >= 1250) {
+        if (px3 >= 25) {
+            px2 = px3 - 100;
+            $('#flashID').css({left: px2});
+            px3 -= 100;
+            finished = 1;
+        }
+        else if (finished === 1){
+            $('.bubble').addClass('animate');
+            setTimeout(
+                function()
+                {
+                    $('#lightning').show();
+                }, 1500);
+            finished = 0;
+        }
+    }
+}
+$('#boutonPerso1').click(function () {
+    setInterval(run1, 20);
 });
-var nbBas=0;
-//top comme left
 
- */
 
 
