@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6dcbb4d-15db-4389-acbf-fd33820ba7a2" name="Default Changelist" comment="" />
+    <list default="true" id="b6dcbb4d-15db-4389-acbf-fd33820ba7a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetFinal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +74,7 @@
       <workItem from="1575347830783" duration="613000" />
       <workItem from="1575385064591" duration="113000" />
       <workItem from="1575398160034" duration="85000" />
+      <workItem from="1575404742264" duration="66000" />
     </task>
     <servers />
   </component>
