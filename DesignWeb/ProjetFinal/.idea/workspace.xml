@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ee73cf-8737-4eff-9661-e35042ba7e81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shaker/.idea/Shaker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shaker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/.idea/ShanyStrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/oui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/stylee.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formatif/fomatif.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formatif/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExamD2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../objet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../objet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../objet/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../objet/monjavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pokemoncard/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemoncard/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetExam/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Straight2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/monjavascript.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +25,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExamD2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetExam" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575318799241</updated>
-      <workItem from="1575318800473" duration="236000" />
+      <workItem from="1575318800473" duration="6529000" />
     </task>
     <servers />
   </component>

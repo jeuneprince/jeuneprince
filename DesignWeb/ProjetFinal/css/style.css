@@ -4,20 +4,8 @@ html,body{
     color: white;
 }
 .bg{
-    background-image: url("../background/bleu.jpg");
+    background-image: url("../..");
     height: 100%;
 
 }
-.black{
-    color: black;
-}
-.noprint{
 
-}
-@media print {
-    .noprint
-    {
-        display: none !important;
-    }
-
-}
