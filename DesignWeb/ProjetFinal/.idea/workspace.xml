@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ee73cf-8737-4eff-9661-e35042ba7e81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018-04-30T085934Z_559402055_RC158EBB8C50_RTRMADP_3_BRITAIN-ROYALS-BOTSWANA-1024x683.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/page5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../premier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575318799241</updated>
       <workItem from="1575318800473" duration="13195000" />
-      <workItem from="1575345995856" duration="5164000" />
+      <workItem from="1575345995856" duration="12336000" />
     </task>
     <servers />
   </component>

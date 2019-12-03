@@ -2,6 +2,8 @@ html,body{
     height: 100%;
     background-color: lightskyblue;
     color: white;
+    font-family: "Comic Sans MS";
+    font-style: italic;
 }
 .bg{
     background-image: url("../img/elephant.jpg");
@@ -62,4 +64,26 @@ header .overlay {
 .bgOpaque{
     background-color: rgba(180,255,255,.75);
 }
+img:hover{
 
+    -moz-box-shadow:0 0 10px  white;
+    -webkit-box-shadow: 0 0 10px white;
+
+}
+a{
+    color:lightskyblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #224061;
+}
+a:visited{
+    color:blue ;
+}
+.black{
+    color: black;
+}
+h1{
+    color: gray;
+}

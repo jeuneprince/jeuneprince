@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6dcbb4d-15db-4389-acbf-fd33820ba7a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjetFinal/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetFinal/img/2018-04-30T085934Z_559402055_RC158EBB8C50_RTRMADP_3_BRITAIN-ROYALS-BOTSWANA-1024x683.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjetFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjetFinal/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetFinal/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetFinal/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/page4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetFinal/page5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/page5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../premier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +76,7 @@
       <workItem from="1571075434489" duration="1254000" />
       <workItem from="1573569314854" duration="121000" />
       <workItem from="1575347830783" duration="613000" />
+      <workItem from="1575385064591" duration="113000" />
     </task>
     <servers />
   </component>
