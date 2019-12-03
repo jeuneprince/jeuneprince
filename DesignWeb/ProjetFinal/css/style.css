@@ -1,13 +1,13 @@
 html,body{
     height: 100%;
-    background-color: lightskyblue;
+    background-color: black;
     color: white;
     font-family: "Comic Sans MS";
     font-style: italic;
 }
 .bg{
-    background-image: url("../img/elephant.jpg");
-    height: 100%;
+    background-image: url("../img/ElephantCI.jpg");
+    mheight: 100%;
 }
 header {
     position: relative;

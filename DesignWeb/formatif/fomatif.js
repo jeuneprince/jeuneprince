@@ -1,3 +1,4 @@
+/*
 var octet=[true,true,true,true,true,true,true,true];
 var motdepassinvalid=["44","444","4444"];
 var  motDePasseUsager ="123";
@@ -9,14 +10,14 @@ function AfficherMenu() {
         "3 : Traduire l’octet en décimal.\n" +
         "4 : Quitter\n")
 }
-function LireOctet() {
+function LireOctet(octet) {
     for (var j=0; j<8; j++){
         octet[j]=prompt("donner un booleen");
     }
     return octet;
 }
 
-function AfficherOctet(){
+function AfficherOctet(octet){
     document.write("<br>");
     for (var k=0; k<8; k++){
         if (octet[k]==="true"){
@@ -27,7 +28,7 @@ function AfficherOctet(){
 
 }
 
-function TraduireOctetDecimal(){
+function TraduireOctetDecimal(octet){
 var resultat=0;
 for (i=0;i<8;i++){
     if (octet[i]===1 || octet[i]==='true'){
@@ -45,17 +46,17 @@ while (i<3) {
     }
 
     else {
-        AfficherMenu();
+        AfficherMenu(octet);
         if(choix==1){
             var test;
-            test=LireOctet();
+            test=LireOctet(octet);
         }
         else if (choix==2){
-            AfficherOctet();
+            AfficherOctet(octet);
         }
         else if (choix==3){
             var essai2;
-                essai2=TraduireOctetDecimal();
+                essai2=TraduireOctetDecimal(octet);
         }
         else if (choix==4){
             i=3;
@@ -72,7 +73,21 @@ document.write("<br>");
 document.write(motdepassinvalid);
  /*
 
-
-
-
   */
+
+//================Question 1================
+function Noel() {
+    document.write(" ABCDEFGHIJKLMNOPQRSTUVWX")
+}
+var mot;
+mot=prompt("donnez un mot");
+if (mot!="noel"){
+    var longueur=mot.length;
+    document.write(mot+" = ")
+    for (var i=0; i<longueur; i++){
+        document.write("*");
+    }
+}
+else {
+
+}

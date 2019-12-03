@@ -159,7 +159,7 @@ document.write("<br>");
 
  */
 
-
+/*
 
 
 //      ========= Exercice 2 ============      //
@@ -184,6 +184,8 @@ for (j=0;j<7;j++){
     n=n+1;
 
 }
+
+ */
 
 
 /*
@@ -269,4 +271,30 @@ for (j=0;j<5;j++){
  */
 
 
+    let tab = new Array(10);        // En fait, un Tableau 2D, c'est d'abord un Tableau.
 
+for(let i=0; i<10; i++)
+{
+    tab[i] = new Array(10);     // dans lequel chaque élément est lui même un tableau.
+    // donc des tableau dans un Tableau.
+}
+
+//==============================================================
+
+for(let j=0; j<10; j++)               //j est pour vertical et k horizontal
+{
+    for(let k=0; k<10; k++)
+    {
+        tab[j][k] = (j+1) * (k+1);
+        if(tab[j][k] < 10) {
+            document.write(tab[j][k] + " . . ");
+        }
+        else if(tab[j][k] < 100) {
+            document.write(tab[j][k] + " . ");
+        }
+        else {
+            document.write(tab[j][k]);
+        }
+    }
+    document.write("<br>");
+}
