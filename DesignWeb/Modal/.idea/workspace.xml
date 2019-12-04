@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="741a745c-58dd-4cea-ac07-d949d1daff21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetExam/img/https___fr.hypebeast.com_files_2019_09_Ateyaba-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/img/https___fr.hypebeast.com_files_2019_09_Ateyaba-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetExam/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetExam/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Thetford/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../premier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../premier/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../premier/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/page2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Menu" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,6 +59,7 @@
       <updated>1569508104096</updated>
       <workItem from="1569508105258" duration="3269000" />
       <workItem from="1570562723383" duration="2322000" />
+      <workItem from="1575503007099" duration="47000" />
     </task>
     <servers />
   </component>
