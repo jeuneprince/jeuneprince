@@ -1,4 +1,4 @@
-/*
+
 var octet=[true,true,true,true,true,true,true,true];
 var motdepassinvalid=["44","444","4444"];
 var  motDePasseUsager ="123";
@@ -71,10 +71,8 @@ document.write("<br>");
 document.write("Le programme va fermer.");
 document.write("<br>");
 document.write(motdepassinvalid);
- /*
 
-  */
-
+/*
 //================Question 1================
 function Noel() {
     document.write(" ABCDEFGHIJKLMNOPQRSTUVWX")
@@ -91,3 +89,86 @@ if (mot!="noel"){
 else {
 
 }
+
+ */
+/*
+//===========  Déclaration du Tableau 2D ============================================================
+let tab = new Array(10);        // En fait, un Tableau 2D, c'est d'abord un Tableau.
+for (let u = 0; u < 10; u++) {
+    tab[u] = new Array(10);     // dans lequel chaque élément est lui même un tableau.
+    // donc des tableaux dans un Tableau.
+    for (let v = 0; v < 10; v++) {
+        tab[u][v] = "..";
+    }
+}
+
+//===============   Remplissage   ==================================================================
+for (let j = 0; j < 10; j++) {
+    for (let k = 0; k < 10; k++) {
+        if (j === k || (j+k) === 9)
+        {
+            tab[j][k] = "x";
+        }
+    }
+}
+
+//===============   Affichage   ===========================================================================
+for (let a = 0; a < 10; a++) {
+    for (let b = 0; b < 10; b++) {
+        document.write(tab[a][b] + " ");
+    }
+    document.write("<br>");
+}
+
+ */
+/*
+//===========  Déclaration du Tableau  ===============================================================
+let tab = new Array(5);        // En fait, un Tableau 2D, c'est d'abord un Tableau.
+for(let u=0; u<5; u++)
+{
+    tab[u] = new Array(24);     // dans lequel chaque élément est lui même un tableau.
+    // donc des tableau dans un Tableau.
+    for(let v=0; v<24; v++)
+    {
+        tab[u][v] = "..";
+    }
+}
+//===============   Remplissage   ===================================================================
+for(let j=0; j<5; j++)
+{
+    for(let k=0; k<24; k++)
+    {
+        if((j===0) && (k!=5 && k!=11 && k!= 17 && k!=19 && k!=20 && k!= 21 && k!=22 && k!=23))  // la 1ere ligne horizontale
+        {
+            tab[j][k] = "x";
+        }
+        if((j===1) && (k===4 || k===6 || k===10 || k===12 || k===18))  // toutes les barres verticales
+        {
+            tab[j][k] = "x";
+        }
+        if((j===2) && (k===4 || k===6 || k===10 || k===12 || k===18 || k===13 || k===14 || k===15))  // toutes les barres verticales
+        {
+            tab[j][k] = "x";
+        }
+        if((j===3) && (k===0 || k===4 || k===6 || k===10 || k===12 || k===18))    // le petit dernier morceaux du J  : C'est mon prénom que j'Écris   :) hi hi hi
+        {
+            tab[j][k] = "x";
+        }
+        if((j===4) && (k!=5 && k!=11 && k!= 17)){  // la dernière ligne horizontale du bas
+            tab[j][k] = "x";
+        }
+    }
+}
+//========  Affichage  =============================================================================
+
+for(let a=0; a<5; a++)
+{
+    for(let b=0; b<24; b++)
+    {
+        document.write(tab[a][b] + " ");
+    }
+    document.write("<br>");
+}
+
+ */
+
