@@ -73,8 +73,8 @@ header .overlay {
 }
 img:hover{
 
-    -moz-box-shadow:0 0 10px  white;
-    -webkit-box-shadow: 0 0 10px white;
+    -moz-box-shadow:0 0 10px  rebeccapurple;
+    -webkit-box-shadow: 0 0 10px rebeccapurple;
 
 }
 a{
