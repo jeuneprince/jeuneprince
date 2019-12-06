@@ -94,4 +94,10 @@ a:visited{
 h1{
     color: gray;
 }
+.bac{
+    background-image: url("../img/flag-1040571_1280.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
 
