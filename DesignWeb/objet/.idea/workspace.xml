@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a266d3-f68b-48ad-a919-ad21f98f585d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Shaker/.idea/Shaker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shaker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/.idea/ShanyStrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/oui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShanyStrap/stylee.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExamD2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamD2/js/monjavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Flash Version 2019/js/flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/monjavascript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pokemoncard/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemoncard/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +61,7 @@
       <workItem from="1574792306692" duration="13911000" />
       <workItem from="1574955959351" duration="1930000" />
       <workItem from="1575052123500" duration="4380000" />
+      <workItem from="1575658220222" duration="2295000" />
     </task>
     <servers />
   </component>

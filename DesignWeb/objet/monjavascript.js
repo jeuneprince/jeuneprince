@@ -164,7 +164,7 @@ for (let i=0; i < 10; i++) {
 
  */
 
-
+/*
 //================================Exercice3========================================
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
@@ -211,3 +211,66 @@ while(guerrier1.pointdevie > 0 || guerrier2.pointdevie>0) {
     document.write("Point de vie apres attaque reçu du guerrier est : " + guerrier2.pointdevie);
     document.write("<br>");
 }
+
+ */
+
+//================================Exercice========================================
+class Papillon {
+    constructor( nom, couleur, masse, longueur, largeur){
+        this.nom=nom;
+        this.couleur=couleur;
+        this.masse=masse;
+        this.longueur=longueur;
+        this.largeur=largeur;
+    }
+    MangerFraise(masse1){
+        this.masse+=masse1;
+    }
+    GetMasse(){
+        return this.masse;
+    }
+    ChangerCouleur(couleur){
+        this.couleur=couleur;
+    }
+    GetCouleur(){
+        return this.couleur;
+    }
+
+    Grandir(longueur,largeur){
+        this.longueur=longueur;
+        this.largeur=largeur;
+    }
+    GetSurface(){
+        var resultat;
+        resultat=this.largeur*this.longueur;
+        return resultat;
+    }
+}
+
+let papillon1=new Papillon("anthoine", "noir", 10, 2,3);
+document.write("La masse est "+papillon1.masse);
+document.write("<br>");
+document.write("La couleur est "+papillon1.couleur);
+document.write("<br>");
+document.write("La longueur est "+papillon1.longueur);
+document.write("<br>");
+document.write("La largeur est "+papillon1.largeur);
+document.write("<br>");
+document.write("La surface est "+papillon1.GetSurface());
+document.write("<br>");
+document.write("<br>");
+document.write("<br>");
+document.write("Mon papillon s'appelle "+papillon1.nom);
+document.write("<br>");
+papillon1.MangerFraise(4);
+papillon1.ChangerCouleur("rose");
+papillon1.Grandir(6,3);
+document.write("La nouvelle masse est "+papillon1.GetMasse());
+document.write("<br>");
+document.write("La nouvelle couleur est "+papillon1.GetCouleur());
+document.write("<br>");
+document.write("La longueur est "+papillon1.longueur);
+document.write("<br>");
+document.write("La largeur est "+papillon1.largeur);
+document.write("<br>");
+document.write("La nouvelle surface est "+papillon1.GetSurface());
