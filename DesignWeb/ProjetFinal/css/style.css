@@ -100,4 +100,33 @@ h1{
     background-repeat: no-repeat;
     height: 30%;
 }
+.parallax3 {
+    /* L’image du Parallax */
+    background-image: url("../img/RESTO_assinie.jpg");
 
+    /* L’hauteur du Parallax */
+    min-height: 500px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.noir{
+    background-color: cadetblue;
+    color: white;
+}
+
+.descendreSavourer{
+    margin-top: 55px;
+}
+
+@media (max-width: 1200px) {
+    .descendreSavourer{
+        margin-top: 70px;
+    }
+}
+.gris{
+    color: gray;
+}
