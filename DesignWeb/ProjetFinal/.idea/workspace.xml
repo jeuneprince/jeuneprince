@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ee73cf-8737-4eff-9661-e35042ba7e81" name="Default Changelist" comment="" />
+    <list default="true" id="87ee73cf-8737-4eff-9661-e35042ba7e81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/.idea/ExamenFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q1_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q2_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q3_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q4_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice_tableau/monjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice_tableau/monjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/_99100612_zaouli.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/zaouli.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/loisirs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/savourer.html" beforeDir="false" afterPath="$PROJECT_DIR$/savourer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../objet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objet/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../objet/monjavascript.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Formulaire" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +78,8 @@
       <workItem from="1575656698191" duration="1518000" />
       <workItem from="1575660619524" duration="4496000" />
       <workItem from="1575907900185" duration="439000" />
-      <workItem from="1575908455980" duration="11961000" />
+      <workItem from="1575908455980" duration="13696000" />
+      <workItem from="1576163535308" duration="228000" />
     </task>
     <servers />
   </component>

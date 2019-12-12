@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5a266d3-f68b-48ad-a919-ad21f98f585d" name="Default Changelist" comment="" />
+    <list default="true" id="c5a266d3-f68b-48ad-a919-ad21f98f585d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/.idea/ExamenFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q1_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q2_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q3_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/Q4_soumare_souleymane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercice_tableau/monjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice_tableau/monjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/loisirs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetFinal/savourer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetFinal/savourer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monjavascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/monjavascript.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetFinal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,6 +72,9 @@
       <workItem from="1574955959351" duration="1930000" />
       <workItem from="1575052123500" duration="4380000" />
       <workItem from="1575658220222" duration="2393000" />
+      <workItem from="1576002710858" duration="109000" />
+      <workItem from="1576005796612" duration="119000" />
+      <workItem from="1576098754368" duration="1202000" />
     </task>
     <servers />
   </component>

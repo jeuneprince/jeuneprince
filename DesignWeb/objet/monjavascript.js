@@ -213,7 +213,7 @@ while(guerrier1.pointdevie > 0 || guerrier2.pointdevie>0) {
 }
 
  */
-
+/*
 //================================Exercice========================================
 class Papillon {
     constructor( nom, couleur, masse, longueur, largeur){
@@ -274,3 +274,5 @@ document.write("<br>");
 document.write("La largeur est "+papillon1.largeur);
 document.write("<br>");
 document.write("La nouvelle surface est "+papillon1.GetSurface());
+
+ */
