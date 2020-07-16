@@ -204,6 +204,11 @@ p,ul,h2 {
     color: #2a6496;
 }
 
+.test{
+    background-image: url("../media/eau.jpg");
+    background-repeat: no-repeat;
+
+}
 
 
 
